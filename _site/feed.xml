@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malaysian Students' Technology Conference - MSTC</title>
+    <description>The Malaysian Students' Technology Conference (MSTC) is a student-led initiative that serves to provide  a platform for students to critically discuss and learn more about present-era technological advances  and issues regarding STEM topics.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 May 2018 18:22:53 +0100</pubDate>
+    <lastBuildDate>Wed, 30 May 2018 18:22:53 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>Ganesh Pramod Karunakaran</title>
+        <description>
+</description>
+        <pubDate>Wed, 31 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/31/ganesh/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/31/ganesh/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Ooi Shu Ning</title>
+        <description>
+</description>
+        <pubDate>Tue, 30 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/30/shuning/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/30/shuning/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Nur Ain Syafiqah Abdul Halim</title>
+        <description>
+</description>
+        <pubDate>Mon, 29 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/29/nur-ain/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/29/nur-ain/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Eva Marisha Cheria anak Unyat</title>
+        <description>
+</description>
+        <pubDate>Sun, 28 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/28/eva-marisha/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/28/eva-marisha/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Teng Kong Yew</title>
+        <description>
+</description>
+        <pubDate>Sat, 27 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/27/teng-kong-yew/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/27/teng-kong-yew/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Ryan Tan Mieng-Zheng</title>
+        <description>
+</description>
+        <pubDate>Fri, 26 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/26/tan-mieng-zheng-ryan/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/26/tan-mieng-zheng-ryan/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Syahira Syazreen binti Zainal Abidin</title>
+        <description>
+</description>
+        <pubDate>Thu, 25 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/25/syahira/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/25/syahira/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Siti Zulaikhah Mohd Ali</title>
+        <description>
+</description>
+        <pubDate>Wed, 24 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/24/siti/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/24/siti/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Muhammad Alif Ajis</title>
+        <description>
+</description>
+        <pubDate>Tue, 23 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/23/muhammad/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/23/muhammad/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Lai Joe Yee</title>
+        <description>
+</description>
+        <pubDate>Mon, 22 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/22/lai-joe-yee/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/22/lai-joe-yee/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+  </channel>
+</rss>
