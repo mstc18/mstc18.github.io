@@ -1,5 +1,5 @@
 ---
-title: Ryan Tan Mieng-Zheng 
+title: Ka Shing Liong
 name: Ryan-Tan-Mieng-Zheng
 subtitle: Head of Finance
 layout: 2017_default

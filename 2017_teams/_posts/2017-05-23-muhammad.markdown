@@ -1,5 +1,5 @@
 ---
-title: Muhammad Alif Ajis
+title: Ru Quan Phuah
 name: Muhammad-Alif-Ajis
 subtitle: Head of Human Resources
 layout: 2017_default

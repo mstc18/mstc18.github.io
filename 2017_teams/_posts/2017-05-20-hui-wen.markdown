@@ -1,5 +1,5 @@
 ---
-title: Chong Hui Wen
+title: Brandon Lim
 name: Chong-Hui-Wen
 subtitle: Head of Marketing
 layout: 2017_default

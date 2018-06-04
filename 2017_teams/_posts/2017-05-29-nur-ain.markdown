@@ -1,7 +1,7 @@
 ---
-title: Nur Ain Syafiqah Abdul Halim
+title: Zhi Chao Yeo
 name: Nur-Ain-Syafiqah-Abdul-Halim
-subtitle: Deputy Coordinator (Malaysia)
+subtitle: Dept. Ex. Coordinator
 layout: 2017_default
 img: nur-ani.jpg
 thumbnail: nur-ani.jpg

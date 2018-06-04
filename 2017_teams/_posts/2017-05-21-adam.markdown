@@ -1,5 +1,5 @@
 ---
-title: Muhammad Amin Adam Kushairi
+title: Yin Jue Chang
 name: Muhammad-Amin-Adam-Kushairi
 subtitle: Head of Media
 layout: 2017_default
