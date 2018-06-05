@@ -1,7 +1,7 @@
 ---
 title: Lee Zong Hao
 name: Siti-Zulaikhah-Mohd-Ali
-subtitle: Head of Sponsorship
+subtitle: Head of Finance & Sponsorship
 layout: 2017_default
 img: siti.jpg
 thumbnail: siti.jpg

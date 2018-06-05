@@ -1,7 +1,7 @@
 ---
 title: Ka Shing Liong
 name: Ryan-Tan-Mieng-Zheng
-subtitle: Head of Finance
+subtitle: Head of Finance & Sponsorship
 layout: 2017_default
 img: ryan.jpg
 thumbnail: ryan.jpg
