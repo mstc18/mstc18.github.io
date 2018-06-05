@@ -1,7 +1,7 @@
 ---
 title: Hishamuddin Naeem
 name: Syahira-Syazreen-binti-Zainal-Abidin
-subtitle: Head of Sponsorship
+subtitle: Head of Finance & Sponsorship
 layout: 2017_default
 img: syazreen.jpg
 thumbnail: syazreen.jpg

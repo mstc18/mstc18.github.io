@@ -1,7 +1,7 @@
 ---
 title: Yin Jue Chang
 name: Muhammad-Amin-Adam-Kushairi
-subtitle: Head of Media
+subtitle: Head of Media & Marketing
 layout: 2017_default
 img: adam.jpg
 thumbnail: adam.jpg

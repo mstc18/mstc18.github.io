@@ -1,7 +1,7 @@
 ---
 title: Zhi Chao Yeo
 name: Nur-Ain-Syafiqah-Abdul-Halim
-subtitle: Dept. Ex. Coordinator
+subtitle: Dept. Executive Coordinator
 layout: 2017_default
 img: nur-ani.jpg
 thumbnail: nur-ani.jpg
