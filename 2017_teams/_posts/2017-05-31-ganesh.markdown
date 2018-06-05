@@ -1,7 +1,7 @@
 ---
-title: Meor M. Hakeem Meor Azmi
+title: Meor Hakeem Meor Azmi
 name: Ganesh-Pramod-Karunakaran
-subtitle: Ex. Coordinator
+subtitle: Executive Coordinator
 layout: 2017_default
 img: ganesh.jpg
 thumbnail: ganesh.jpg
