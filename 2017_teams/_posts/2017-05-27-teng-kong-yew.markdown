@@ -6,5 +6,5 @@ layout: 2017_default
 img: kongyew.jpg
 thumbnail: kongyew.jpg
 alt: Picture of Teng Kong Yew
-description: Miao Ling has organized various conferences. involvement in MSTC 2016 was an eye opener for him on the future prospect of STEM related fields in Malaysia. Kong Yew is a Mechanical Engineering student that is enthusiastic in promoting STEM that is portrayed from his appointment as student ambassador for his former school during British Science Week.
+description: Miao Ling has organized various conferences, including Empower Conference, Solar-powered car competition and TEDx Leeds. Due to her leadership and willingness to go an extra mile to help others, all these conferences have been really successful. She believes that everyone should be able to coexist with machines, by arming themselves with respective skill. Miao Ling is a Law student in Leeds. She is enthusiastic about tech development, Chinese medicine and medicinal foot bath.
 ---
