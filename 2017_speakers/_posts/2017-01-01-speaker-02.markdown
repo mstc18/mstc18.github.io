@@ -1,7 +1,7 @@
 ---
 title: Cashless Society
 name: Mazlan-Abbas
-subtitle: Co-Founder and CEO<br>of<br>Favoriot
+subtitle: Security Concern
 layout: 2017_default
 modal-id: 1
 img: mazlan-abbas.png
