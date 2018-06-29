@@ -6,4 +6,5 @@ layout: 2017_default
 img: adam.jpg
 thumbnail: adam.jpg
 alt: Picture of Muhammad Amin Adam Kushairi
-description: Studying her first year in Experimental Linguistics at UCL, Yin Jue believes that it is important for students to equip themselves with relevant technology skills in order to survive in the competitive world today. She realise the importance of MSTC to promote awareness among Malaysian students and give them insights of technological development in Malaysia. The past experiences of this food lover in A-level Student Council and UCL Malaysian Night have equipped her with relevant design and marketing skills to publicize MSTC and attract people from all backgrounds to join.---
+description: Studying her first year in Experimental Linguistics at UCL, Yin Jue believes that it is important for students to equip themselves with relevant technology skills in order to survive in the competitive world today. She realise the importance of MSTC to promote awareness among Malaysian students and give them insights of technological development in Malaysia. The past experiences of this food lover in A-level Student Council and UCL Malaysian Night have equipped her with relevant design and marketing skills to publicize MSTC and attract people from all backgrounds to join.
+---
