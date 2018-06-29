@@ -1,7 +1,7 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 04a5aa # Pale yellow
-  secondary: ffcc04 # Dark yello
+  primary: faef5d # Pale yellow
+  secondary: ffcc04 # Dark yellow
   secondary-dark: 000a33 # Dark blue
   muted: 777
 
