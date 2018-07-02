@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   a platform for students to critically discuss and learn more about present-era technological advances 
   and issues regarding STEM topics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mstc18.github.io" # the base hostname & protocol for your site
+url: "https://msiastc.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -21,7 +21,7 @@ google_site_verification: google3d1dfe2dc5cfa440.html
 
 include: ['_2016_pages', '_2017_pages']
 
-plugins:
+gems:
   - jekyll-sitemap
   - jekyll-seo-tag
 
