@@ -6,5 +6,5 @@ layout: 2017_default
 img: kongyew.jpg
 thumbnail: kongyew.jpg
 alt: Picture of Teng Kong Yew
-description: Miao Ling has organized various conferences, including Empower Conference, Solar-powered car competition and TEDx Leeds. Due to her leadership and willingness to go an extra mile to help others, all these conferences have been really successful. She believes that everyone should be able to coexist with machines, by arming themselves with respective skill. Miao Ling is a Law student in Leeds. She is enthusiastic about tech development, Chinese medicine and medicinal foot bath.
+description: For the preliminaries, Miaoling absolutely loves conferences. She has handled multiple conferences including TEDx University of Leeds where she was exposed to primarily Legal Technology. Inspired, she would like to understand how technology can impact different industries, and how should we arm ourselves with skills to stay ahead of the trend. She is a firm believer of team culture. She thinks what makes a great team is the relationship that members’ share, and the willingness to go an extra mile to increase team efficiency. She is keen to take up responsibilities as that allows her to understand her strengths and weaknesses, as well as learning how to better communicate and compromise.
 ---
