@@ -6,9 +6,5 @@ layout: 2017_default
 img: siti.jpg
 thumbnail: siti.jpg
 alt: Picture of Siti Zulaikhah Mohd Ali
-<<<<<<< HEAD
 description: Heading up our sponsorship portfolio, Zulaikhah is a first year student majoring in Accountancy who is a knowledge seeker- this has led her to play a role in MSTC to understand STEM related issues better. During her time at IISM A Levels, she was elected as Treasurer for Student Council and received numerous awards for her outstanding academic achievements.
-=======
-description: Zong Hao, a first year Chemical Engineering student at Imperial College London, is aware that technology will be an integral part of our future. He hopes to play a part in raising awareness of the importance of technology among Malaysian students by joining MSTC. As the Internal Affairs and Performance Co-Director of ICMS, he has developed leadership and networking skills to help him with negotiation and pitching to sponsors. As a fun fact, he plays competitive frisbee too!
->>>>>>> 4c1227214ec76a5bb5e48a9aa9e287f5f9247c5c
 ---

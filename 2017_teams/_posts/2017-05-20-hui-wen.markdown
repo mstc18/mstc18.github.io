@@ -6,9 +6,5 @@ layout: 2017_default
 img: hui-wen.jpg
 thumbnail: hui-wen.jpg
 alt: Picture of Chong Hui Wen
-<<<<<<< HEAD
 description: Hui Wen, a third year student in MSci Biology is a neuroscientist in training who formulates ways to understand the target audience inside out and tailors the outreach strategies. With her previous experience as the Creative Director for Virgin Media UK, she is well versed in planning and coordinating marketing strategies to ensure the success of the second establishment of MSTC.
-=======
-description: Brandon is a third year Chemical Engineering student in Universiti Tunku Abdul Rahman. As the Director of Editorial Department in YME Malaysia, he joined the MSTC team with the hopes of working with talented Malaysian students from all over the globe. His aspiration for MSTC 2018 is to create a platform for STEM enthusiasts regardless of their background to interact with minimal formality. This motivation stems from his observation that technology or at least educational gatherings are often in a sense "unapproachable" for the general public due to its prestigious branding. Besides being a fan of photography, he is also a fan of Anton Bruckner's symphonies!
->>>>>>> 4c1227214ec76a5bb5e48a9aa9e287f5f9247c5c
 ---

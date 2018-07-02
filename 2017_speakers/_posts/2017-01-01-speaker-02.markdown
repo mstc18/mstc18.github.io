@@ -1,7 +1,7 @@
 ---
 title: Dr. Mazlan Abbas
 name: Mazlan-Abbas
-subtitle: Security Concern
+subtitle: Co-Founder and CEO<br>of<br>Favoriot
 layout: 2017_default
 modal-id: 1
 img: mazlan-abbas.png
