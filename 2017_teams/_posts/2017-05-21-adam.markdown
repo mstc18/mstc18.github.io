@@ -1,10 +1,10 @@
 ---
-title: Muhammad Amin Adam Kushairi
+title: Yin Jue Chang
 name: Muhammad-Amin-Adam-Kushairi
-subtitle: Head of Media
+subtitle: Head of Media & Marketing
 layout: 2017_default
 img: adam.jpg
 thumbnail: adam.jpg
 alt: Picture of Muhammad Amin Adam Kushairi
-description: Proficient in Adobe Photoshop and Premiere, Adam is an experienced graphic designer that has worked for numerous programmes such as Manchester Malaysian Night and KMS A Level Student Body. His background in engineering has benefitted him in terms of creative thinking that enables him to deliver stunning publicity materials for MSTC.
+description: Proficient in Adobe Photoshop and Premiere, Yin Jue is an experienced graphic designer that has worked for numerous programmes such as UCL Malaysian Night. His background in engineering has benefitted him in terms of creative thinking that enables him to deliver stunning publicity materials for MSTC.
 ---
