@@ -6,12 +6,17 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Wed, 30 May 2018 17:38:35 +0100</pubDate>
     <lastBuildDate>Wed, 30 May 2018 17:38:35 +0100</lastBuildDate>
+=======
+    <pubDate>Sun, 10 Jun 2018 21:16:23 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Jun 2018 21:16:23 +0100</lastBuildDate>
+>>>>>>> 4c1227214ec76a5bb5e48a9aa9e287f5f9247c5c
     <generator>Jekyll v3.8.2</generator>
     
       <item>
-        <title>Ganesh Pramod Karunakaran</title>
+        <title>Meor Hakeem Meor Azmi</title>
         <description>
 </description>
         <pubDate>Wed, 31 May 2017 00:00:00 +0100</pubDate>
@@ -24,7 +29,7 @@
       </item>
     
       <item>
-        <title>Ooi Shu Ning</title>
+        <title>Azrai Azmi</title>
         <description>
 </description>
         <pubDate>Tue, 30 May 2017 00:00:00 +0100</pubDate>
@@ -37,7 +42,7 @@
       </item>
     
       <item>
-        <title>Nur Ain Syafiqah Abdul Halim</title>
+        <title>Zhi Chao Yeo</title>
         <description>
 </description>
         <pubDate>Mon, 29 May 2017 00:00:00 +0100</pubDate>
@@ -50,7 +55,7 @@
       </item>
     
       <item>
-        <title>Eva Marisha Cheria anak Unyat</title>
+        <title>Zhi Ling Lim</title>
         <description>
 </description>
         <pubDate>Sun, 28 May 2017 00:00:00 +0100</pubDate>
@@ -63,7 +68,7 @@
       </item>
     
       <item>
-        <title>Teng Kong Yew</title>
+        <title>Ng Miao Ling</title>
         <description>
 </description>
         <pubDate>Sat, 27 May 2017 00:00:00 +0100</pubDate>
@@ -76,7 +81,7 @@
       </item>
     
       <item>
-        <title>Ryan Tan Mieng-Zheng</title>
+        <title>Ka Shing Liong</title>
         <description>
 </description>
         <pubDate>Fri, 26 May 2017 00:00:00 +0100</pubDate>
@@ -89,20 +94,7 @@
       </item>
     
       <item>
-        <title>Syahira Syazreen binti Zainal Abidin</title>
-        <description>
-</description>
-        <pubDate>Thu, 25 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017_teams/2017/05/25/syahira/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/25/syahira/</guid>
-        
-        
-        <category>2017_teams</category>
-        
-      </item>
-    
-      <item>
-        <title>Siti Zulaikhah Mohd Ali</title>
+        <title>Lee Zong Hao</title>
         <description>
 </description>
         <pubDate>Wed, 24 May 2017 00:00:00 +0100</pubDate>
@@ -115,7 +107,7 @@
       </item>
     
       <item>
-        <title>Muhammad Alif Ajis</title>
+        <title>Ru Quan Phuah</title>
         <description>
 </description>
         <pubDate>Tue, 23 May 2017 00:00:00 +0100</pubDate>
@@ -128,12 +120,25 @@
       </item>
     
       <item>
-        <title>Lai Joe Yee</title>
+        <title>Nadhihah Jaafar</title>
         <description>
 </description>
         <pubDate>Mon, 22 May 2017 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2017_teams/2017/05/22/lai-joe-yee/</link>
         <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/22/lai-joe-yee/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Yin Jue Chang</title>
+        <description>
+</description>
+        <pubDate>Sun, 21 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/21/adam/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/21/adam/</guid>
         
         
         <category>2017_teams</category>

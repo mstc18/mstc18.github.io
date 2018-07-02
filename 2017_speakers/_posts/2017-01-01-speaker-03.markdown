@@ -1,7 +1,7 @@
 ---
 title: Mr. Gurmit Singh 
 name: Gurmit-Singh 
-subtitle: Chairman of Centre for Environment, Technology and Development, Malaysia (CETDEM)
+subtitle: Why Gaming Technology is Important?
 layout: 2017_default
 modal-id: 1
 img: Gurmit-Singh.jpg

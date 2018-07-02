@@ -6,5 +6,9 @@ layout: 2017_default
 img: alif.jpg
 thumbnail: alif.jpg
 alt: Picture of Muhammad Alif Ajis
+<<<<<<< HEAD
 description: As someone who is consistently growing himself, Alif is looking forward to work in a dynamic environment that offers various challenges and new exposure. His strengths lie on his communication and leadership skills that are essential for his position as the Head of Human Resources. Back during his college years, he was appointed as part of the Student Representative Council.
+=======
+description: Ru Quan, who is also our head of human resource, is a second year undergraduate who is pursuing BSc (Hons) Architecture in the University of Bath. He joined MSTC with the strong belief that it will be a great platform to learn and to share as well as to work with a team of talented people across different time zones. He is passionate in issues on education and ways of building the environment. With his skills and experiences in various events such as the University of Bath’s Architecture and Civil Engineering Society and Taylor’s College Classroom Xperience (CXP), he hopes to redefine what a student conference can be and brings impact by inspiring others with new perspectives and ideas.
+>>>>>>> 4c1227214ec76a5bb5e48a9aa9e287f5f9247c5c
 ---

@@ -6,5 +6,9 @@ layout: 2017_default
 img: ganesh.jpg
 thumbnail: ganesh.jpg
 alt: Picture of Ganesh Pramod Karunakaran
+<<<<<<< HEAD
 description: Our coordinator is currently in his 2nd year of Mechanical Engineering. Having been the Head of Operations for MSTC 2016, he realized the potential of this conference to be the catalyst for our future leaders to remain ahead and competitive in todays' fast paced world. Under his supervision, MSTC hopes to address the opportunities that lie ahead in STEM field.
+=======
+description: Meor is an avid learner who has mastered multiple musical instruments, various cuisines, and many glorious pursuits of diverse ingenuity. He recently graduated from University of Alberta, Canada in BSc Petroleum Engineering. As a science and technology advocate, he joined MSTC to meet like-minded Malaysian students outside of Canada. He hopes that MSTC is able to create a sustainable, long-lasting impact on participants' knowledge of technology. With his experience as President of University of Alberta Malaysian Students' Association and National Finalist of 2018 SciNapse Undergraduate Science Case Competition, he has the necessary skills and knowledge to lead MSTC 2018 to reach new heights and breakthrough!
+>>>>>>> 4c1227214ec76a5bb5e48a9aa9e287f5f9247c5c
 ---
