@@ -1,5 +1,5 @@
 ---
-title: Meor Hakeem Meor Azmi
+title: Meor Hakeem Meor Hashim
 name: Ganesh-Pramod-Karunakaran
 subtitle: Executive Coordinator
 layout: 2017_default
