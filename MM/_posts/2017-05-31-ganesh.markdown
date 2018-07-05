@@ -1,0 +1,10 @@
+---
+title: Meor Hakeem Meor Hashim
+name: Ganesh-Pramod-Karunakaran
+subtitle: Executive Coordinator
+layout: 2017_default
+img: ganesh.jpg
+thumbnail: ganesh.jpg
+alt: Picture of Ganesh Pramod Karunakaran
+description: Meor is an avid learner who has mastered multiple musical instruments, various cuisines, and many glorious pursuits of diverse ingenuity. He recently graduated from University of Alberta, Canada in BSc Petroleum Engineering. As a science and technology advocate, he joined MSTC to meet like-minded Malaysian students outside of Canada. He hopes that MSTC is able to create a sustainable, long-lasting impact on participants' knowledge of technology. With his experience as President of University of Alberta Malaysian Students' Association and National Finalist of 2018 SciNapse Undergraduate Science Case Competition, he has the necessary skills and knowledge to lead MSTC 2018 to reach new heights and breakthrough!
+---
