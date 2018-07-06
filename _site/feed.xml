@@ -6,74 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Jul 2018 01:59:33 +0100</pubDate>
-    <lastBuildDate>Thu, 05 Jul 2018 01:59:33 +0100</lastBuildDate>
+    <pubDate>Fri, 06 Jul 2018 20:27:33 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Jul 2018 20:27:33 +0100</lastBuildDate>
     <generator>Jekyll v3.8.2</generator>
-    
-      <item>
-        <title>Meor Hakeem Meor Hashim</title>
-        <description>
-</description>
-        <pubDate>Wed, 31 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/rs/2017/05/31/ganesh/</link>
-        <guid isPermaLink="true">http://localhost:4000/rs/2017/05/31/ganesh/</guid>
-        
-        
-        <category>RS</category>
-        
-      </item>
-    
-      <item>
-        <title>Meor Hakeem Meor Hashim</title>
-        <description>
-</description>
-        <pubDate>Wed, 31 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ol/2017/05/31/ganesh/</link>
-        <guid isPermaLink="true">http://localhost:4000/ol/2017/05/31/ganesh/</guid>
-        
-        
-        <category>OL</category>
-        
-      </item>
-    
-      <item>
-        <title>Meor Hakeem Meor Hashim</title>
-        <description>
-</description>
-        <pubDate>Wed, 31 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/mm/2017/05/31/ganesh/</link>
-        <guid isPermaLink="true">http://localhost:4000/mm/2017/05/31/ganesh/</guid>
-        
-        
-        <category>MM</category>
-        
-      </item>
-    
-      <item>
-        <title>Meor Hakeem Meor Hashim</title>
-        <description>
-</description>
-        <pubDate>Wed, 31 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/hr/2017/05/31/ganesh/</link>
-        <guid isPermaLink="true">http://localhost:4000/hr/2017/05/31/ganesh/</guid>
-        
-        
-        <category>HR</category>
-        
-      </item>
-    
-      <item>
-        <title>Meor Hakeem Meor Hashim</title>
-        <description>
-</description>
-        <pubDate>Wed, 31 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fs/2017/05/31/ganesh/</link>
-        <guid isPermaLink="true">http://localhost:4000/fs/2017/05/31/ganesh/</guid>
-        
-        
-        <category>FS</category>
-        
-      </item>
     
       <item>
         <title>Meor Hakeem Meor Hashim</title>
@@ -93,50 +28,115 @@
         <description>
 </description>
         <pubDate>Tue, 30 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/rs/2017/05/30/shuning/</link>
-        <guid isPermaLink="true">http://localhost:4000/rs/2017/05/30/shuning/</guid>
+        <link>http://localhost:4000/2017_teams/2017/05/30/shuning/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/30/shuning/</guid>
         
         
-        <category>RS</category>
-        
-      </item>
-    
-      <item>
-        <title>Azrai Azmi</title>
-        <description>
-</description>
-        <pubDate>Tue, 30 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ol/2017/05/30/shuning/</link>
-        <guid isPermaLink="true">http://localhost:4000/ol/2017/05/30/shuning/</guid>
-        
-        
-        <category>OL</category>
+        <category>2017_teams</category>
         
       </item>
     
       <item>
-        <title>Azrai Azmi</title>
+        <title>Zhi Chao Yeo</title>
         <description>
 </description>
-        <pubDate>Tue, 30 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/mm/2017/05/30/shuning/</link>
-        <guid isPermaLink="true">http://localhost:4000/mm/2017/05/30/shuning/</guid>
+        <pubDate>Mon, 29 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/29/nur-ain/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/29/nur-ain/</guid>
         
         
-        <category>MM</category>
+        <category>2017_teams</category>
         
       </item>
     
       <item>
-        <title>Azrai Azmi</title>
+        <title>Zhi Ling Lim</title>
         <description>
 </description>
-        <pubDate>Tue, 30 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/hr/2017/05/30/shuning/</link>
-        <guid isPermaLink="true">http://localhost:4000/hr/2017/05/30/shuning/</guid>
+        <pubDate>Sun, 28 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/28/eva-marisha/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/28/eva-marisha/</guid>
         
         
-        <category>HR</category>
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Ng Miao Ling</title>
+        <description>
+</description>
+        <pubDate>Sat, 27 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/27/teng-kong-yew/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/27/teng-kong-yew/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Ka Shing Liong</title>
+        <description>
+</description>
+        <pubDate>Fri, 26 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/26/tan-mieng-zheng-ryan/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/26/tan-mieng-zheng-ryan/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Lee Zong Hao</title>
+        <description>
+</description>
+        <pubDate>Wed, 24 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/24/siti/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/24/siti/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Ru Quan Phuah</title>
+        <description>
+</description>
+        <pubDate>Tue, 23 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/23/muhammad/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/23/muhammad/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Nadhihah Jaafar</title>
+        <description>
+</description>
+        <pubDate>Mon, 22 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/22/lai-joe-yee/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/22/lai-joe-yee/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Yin Jue Chang</title>
+        <description>
+</description>
+        <pubDate>Sun, 21 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/21/adam/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/21/adam/</guid>
+        
+        
+        <category>2017_teams</category>
         
       </item>
     
