@@ -1,7 +1,7 @@
 ---
 title: Mr. How Yong Guan 
 name: How-Yong-Guan
-subtitle: Co-Founder, Poladrone
+subtitle: Co-Founder<br>of<br>Poladrone
 layout: 2017_default
 modal-id: 1
 img: HowYongGuan.jpg
