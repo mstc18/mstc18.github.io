@@ -1,5 +1,5 @@
 ---
-title: Dr. Mazlan Abbas
+title: Mr Tan Khee Khong
 name: Mazlan-Abbas
 subtitle: Co-Founder and CEO<br>of<br>Favoriot
 layout: 2017_default

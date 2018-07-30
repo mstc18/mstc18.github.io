@@ -1,5 +1,5 @@
 ---
-title: Mr. How Yong Guan 
+title: Mr. Mohammad Izzal Amaani
 name: How-Yong-Guan
 subtitle: Co-Founder<br>of<br>Poladrone
 layout: 2017_default

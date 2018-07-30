@@ -1,5 +1,5 @@
 ---
-title: Mr. Cheong Jin Xi
+title: Mr. Vikneswaran Kunasegaran
 name: Cheong-Jin-Xi
 subtitle: Founder<br>of<br>Poladrone
 layout: 2017_default

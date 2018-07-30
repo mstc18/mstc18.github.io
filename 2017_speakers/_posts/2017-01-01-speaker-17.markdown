@@ -1,5 +1,5 @@
 ---
-title: Mr. Cheong Jin Xi
+title: Dato Iain Lo
 name: Cheong-Jin-Xi
 subtitle: Founder<br>of<br>Poladrone
 layout: 2017_default

@@ -1,5 +1,5 @@
 ---
-title: Mr. Gurmit Singh 
+title: Mr. Daniel B Rupert
 name: Gurmit-Singh 
 subtitle: Chairman of Centre for Environment, Technology and Development, Malaysia (CETDEM)
 layout: 2017_default
