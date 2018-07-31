@@ -1,12 +1,12 @@
 ---
 title: Dr Teo Soo Hwang
 name: Teo-Soo-Hwang
-subtitle: Founder<br>of<br>Poladrone
+subtitle: President<br>Of<br>Cancer Research
 layout: 2017_default
 modal-id: 1
 img: teo-soo-hwang.jpg
 thumbnail: teo-soo-hwang.jpg
 alt: Picture of Teo Soo Hwang
-topic: Unmanned Technology (Drone) Applications & Study Abroad Sharing Session
-description: Titled "Unmanned Technology (Drone) Applications & Study Abroad Sharing Session", this informative session will be presented by the founders of Poladrone Solutions Sdn Bhd, a Malaysian-based company founded by a team of aerospace and data engineers that utilises autonomous drones and customised algorithms to efficiently collect and analyze data. <br><br> Cheong Jin Xi is the founder and CEO of Poladrone, who studied Aerospace Engineering at Monash University in Australia. He gained his financial knowledge through self-learning and served as a senior finance business analyst in Intel Corporation for a few years. This has therefore greatly influenced his good technical and financial background. Passionate about drones and foreseeing their good impact in different industries, he decided to form a drone startup, Poladrone in Malaysia, with the goal of accelerating the drone revolution in South East Asia region. Jin Xi sees the future in Internet of Things (Data Driven), everyday use commercial drones (Logistics Driven) and the emergence of the space tourism industry (Curiosity Driven).
+topic: Future of Medicine
+description: Prof Teo Soo-Hwang is Chief Executive of Cancer Research Malaysia.  Her team works with global<br>teams to ensure that the fight against cancer doesn’t miss Asians. Prof Teo graduated with a First<br>Class Honours degree from the University of Cambridge and then completed her PhD at the<br>same university.  She won the prestigious Wellcome Trust Studentship Award for her PhD and the Royal<br>Society Dorothy Hodgkin Research<br>Fellowship for her Post-doctoral research work.  Prof Teo is<br>one of the most highly cited Malaysian scientists in medicine.  She is the<br>first Malaysian to win<br>the Wellcome Trust Collaborative Science Award and 2 of the Newton Grant Awards from the<br>Medical Research<br>Council.  In addition to her research leadership, Prof Teo has contributed to<br>the development of health policy, having chaired the Familial<br>Section of the Clinical Practice<br>Guidelines for breast cancer and contributed to the Malaysian National Cancer Control Plan.<br>Prof<br>Teo’s contributions to medical research have been acknowledged through appointments<br>as an Adjunct Professor of University Malaya in 2008, an<br>Eisenhower Fellow in 2010, a Fellow of<br>the Academy of Sciences on 2014, Top Research Scientist Award in 2014 and Honorary Officer<br>of the Order of the British Empire by Queen Elizabeth II in 2017.  The OBE is particularly significant<br>as she is the only female scientist in living memory to have won the award in Malaysia.
 ---

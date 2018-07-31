@@ -1,12 +1,12 @@
 ---
 title: Dato Iain Lo
 name: Iain-Lo
-subtitle: Founder<br>of<br>Poladrone
+subtitle: CEO<br>of<br>Shell Malaysia
 layout: 2017_default
 modal-id: 1
 img: mazlan-abbas.jpg
 thumbnail: mazlan-abbas.jpg
 alt: Picture of Mazlan Abbas
-topic: Unmanned Technology (Drone) Applications & Study Abroad Sharing Session
-description: Titled "Unmanned Technology (Drone) Applications & Study Abroad Sharing Session", this informative session will be presented by the founders of Poladrone Solutions Sdn Bhd, a Malaysian-based company founded by a team of aerospace and data engineers that utilises autonomous drones and customised algorithms to efficiently collect and analyze data. <br><br> Cheong Jin Xi is the founder and CEO of Poladrone, who studied Aerospace Engineering at Monash University in Australia. He gained his financial knowledge through self-learning and served as a senior finance business analyst in Intel Corporation for a few years. This has therefore greatly influenced his good technical and financial background. Passionate about drones and foreseeing their good impact in different industries, he decided to form a drone startup, Poladrone in Malaysia, with the goal of accelerating the drone revolution in South East Asia region. Jin Xi sees the future in Internet of Things (Data Driven), everyday use commercial drones (Logistics Driven) and the emergence of the space tourism industry (Curiosity Driven).
+topic: Keynote
+description: Datuk Iain Lo has been in the oil and gas industry for nearly 30 years. He obtained Bachelor of Science in Civil Engineering in 1987 and Master of Science in Civil Engineering in 1988 from University of California, Los Angeles (UCLA). He first delved into this industry after he realised his job as a consulting civil engineer did not cater towards his ambition of leaving a mark in society. Since joining Shell, he had been all over the world, enhancing and acquiring skills professionally and personally. He currently serves as the Shell Malaysia chairman and also managing director of Sarawak Shell Bhd and Sabah Shell Petroleum Co Ltd. Under his watch, Shell continues to be one of the best examples for companies to emphasise on giving back to the community. One of the most prominent contributions would be setting up a Piasau Nature Reserve in Miri. Moreover, he believes that his role as the chairman of a prominent company is also to develop Malaysia’s talent pool, especially among the younger generation. He aspires to build future leaders who can guide the country with heart and passion. Thus, Datuk Iain Lo continues to empower and inspire the youth to step out their boundaries and make the differences we want to see.
 ---
