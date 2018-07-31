@@ -1,12 +1,12 @@
 ---
 title: Mr. Vikneswaran Kunasegaran
 name: Vikneswaran-Kunasegaran
-subtitle: Founder<br>of<br>Poladrone
+subtitle: Technical Director<br>of<br>Firmus
 layout: 2017_default
 modal-id: 1
 img: viknes.jpg
 thumbnail: viknes.jpg
 alt: Picture of Vikneswaran Kunasegaran
-topic: Unmanned Technology (Drone) Applications & Study Abroad Sharing Session
-description: Titled "Unmanned Technology (Drone) Applications & Study Abroad Sharing Session", this informative session will be presented by the founders of Poladrone Solutions Sdn Bhd, a Malaysian-based company founded by a team of aerospace and data engineers that utilises autonomous drones and customised algorithms to efficiently collect and analyze data. <br><br> Cheong Jin Xi is the founder and CEO of Poladrone, who studied Aerospace Engineering at Monash University in Australia. He gained his financial knowledge through self-learning and served as a senior finance business analyst in Intel Corporation for a few years. This has therefore greatly influenced his good technical and financial background. Passionate about drones and foreseeing their good impact in different industries, he decided to form a drone startup, Poladrone in Malaysia, with the goal of accelerating the drone revolution in South East Asia region. Jin Xi sees the future in Internet of Things (Data Driven), everyday use commercial drones (Logistics Driven) and the emergence of the space tourism industry (Curiosity Driven).
+topic: Cybersecurity
+description: Vikneswaran Kunesegaran is currently the Technical Director at Firmus. The company specialises in handling cyber threats and also consulting on cybersecurity services. To list a few of his plethora milestones in pursuing his interest on cybersecurity are he is certified as GIAC Penetration Tester (GPEN), EC-Council Certified Ethical Hacker (CEH) and Certified Security Awareness & Competence Manager. Not only that, he has also handled many Security Posture Assessments for multiples companies from various backgrounds.
 ---

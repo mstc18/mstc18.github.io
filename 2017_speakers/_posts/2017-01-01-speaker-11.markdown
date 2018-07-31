@@ -1,12 +1,12 @@
 ---
-title: Mr. Samira Emmerson
+title: Ms Samira Emmerson
 name: Samira-Emmerson
-subtitle: Founder<br>of<br>Poladrone
+subtitle: Analytics And Data Science<br>Director of<br>CADS
 layout: 2017_default
 modal-id: 1
 img: samira.jpg
 thumbnail: samira.jpg
 alt: Picture of Samira Emmerson
-topic: Unmanned Technology (Drone) Applications & Study Abroad Sharing Session
-description: Titled "Unmanned Technology (Drone) Applications & Study Abroad Sharing Session", this informative session will be presented by the founders of Poladrone Solutions Sdn Bhd, a Malaysian-based company founded by a team of aerospace and data engineers that utilises autonomous drones and customised algorithms to efficiently collect and analyze data. <br><br> Cheong Jin Xi is the founder and CEO of Poladrone, who studied Aerospace Engineering at Monash University in Australia. He gained his financial knowledge through self-learning and served as a senior finance business analyst in Intel Corporation for a few years. This has therefore greatly influenced his good technical and financial background. Passionate about drones and foreseeing their good impact in different industries, he decided to form a drone startup, Poladrone in Malaysia, with the goal of accelerating the drone revolution in South East Asia region. Jin Xi sees the future in Internet of Things (Data Driven), everyday use commercial drones (Logistics Driven) and the emergence of the space tourism industry (Curiosity Driven).
+topic: Women In Tech
+description: Samira Emmerson Analytics and Data Science Director, The Center of Applied Data Science (CADS) comes with over 11 years analytics experience in various capacities across multiple organisations. Samira leverages her data science core skills to develop business solutions by combining business acumen, data, analytics and technology. Her experiences range from designing data and analytics solutions based on the business need, conceptualising the business questions and leading teams of data professionals to develop solutions. She has also taken lead roles for technical and quality assurance in projects that she has delivered. She has delivered big data and analytics projects in Financial Services, Technology & Media and Transport sectors whilst managing CXO level stakeholders. Samira’s keen interest are in all aspects of data life cycle from storage to processing and analytics including relational and NoSQL engines. She is particularly interested in Graph databases, modelling and machine learning and truly enjoys leading teams of technical and business analysts whilst being client facing and cater solutions to clients’ requirements.
 ---

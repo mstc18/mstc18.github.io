@@ -1,12 +1,12 @@
 ---
-title: Mr. Nazlina Quadir
+title: Ms. Nazlina Quadir
 name: Nazlina-Quadir
-subtitle: Founder<br>of<br>Poladrone
+subtitle: Founder<br>of<br>Women Techmakers KL
 layout: 2017_default
 modal-id: 1
 img: nazlina-quadir.jpg
 thumbnail: nazlina-quadir.jpg
 alt: Picture of Nazlina Quadir
-topic: Unmanned Technology (Drone) Applications & Study Abroad Sharing Session
-description: Titled "Unmanned Technology (Drone) Applications & Study Abroad Sharing Session", this informative session will be presented by the founders of Poladrone Solutions Sdn Bhd, a Malaysian-based company founded by a team of aerospace and data engineers that utilises autonomous drones and customised algorithms to efficiently collect and analyze data. <br><br> Cheong Jin Xi is the founder and CEO of Poladrone, who studied Aerospace Engineering at Monash University in Australia. He gained his financial knowledge through self-learning and served as a senior finance business analyst in Intel Corporation for a few years. This has therefore greatly influenced his good technical and financial background. Passionate about drones and foreseeing their good impact in different industries, he decided to form a drone startup, Poladrone in Malaysia, with the goal of accelerating the drone revolution in South East Asia region. Jin Xi sees the future in Internet of Things (Data Driven), everyday use commercial drones (Logistics Driven) and the emergence of the space tourism industry (Curiosity Driven).
+topic: Women In Tech
+description: Nazlina Quadir is no stranger to integrated marketing communications. She has an over 15 years of experience in strategic marketing communications and public relations across the industries. Not only that, she is also well known for leading the Kuala Lumpur chapter of Women Techmakers, a global program by Google to advocate women in science, technology, engineering and mathematics (STEM). Her contribution in empowering women in the STEM industry continues to affect our society positively.
 ---
