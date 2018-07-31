@@ -1,12 +1,12 @@
 ---
 title: Mr. Gandhi Suppiah
 name: Gandhi-Suppiah
-subtitle: Founder<br>of<br>Poladrone
+subtitle: Head, Asset Management<br>Asset Consultancy<br>Opus International
 layout: 2017_default
 modal-id: 1
 img: Gandhi-Suppiah.jpg
 thumbnail: Gandhi-Suppiah.jpg
 alt: Picture of Gandhi Suppiah
-topic: Unmanned Technology (Drone) Applications & Study Abroad Sharing Session
-description: Titled "Unmanned Technology (Drone) Applications & Study Abroad Sharing Session", this informative session will be presented by the founders of Poladrone Solutions Sdn Bhd, a Malaysian-based company founded by a team of aerospace and data engineers that utilises autonomous drones and customised algorithms to efficiently collect and analyze data. <br><br> Cheong Jin Xi is the founder and CEO of Poladrone, who studied Aerospace Engineering at Monash University in Australia. He gained his financial knowledge through self-learning and served as a senior finance business analyst in Intel Corporation for a few years. This has therefore greatly influenced his good technical and financial background. Passionate about drones and foreseeing their good impact in different industries, he decided to form a drone startup, Poladrone in Malaysia, with the goal of accelerating the drone revolution in South East Asia region. Jin Xi sees the future in Internet of Things (Data Driven), everyday use commercial drones (Logistics Driven) and the emergence of the space tourism industry (Curiosity Driven).
+topic: Future of Transportation
+description: Gandhi Suppiah has over 25 years of experience with consulting firms and contractor organisations in the design, construction and project management of major multidisciplinary infrastructure projects. He is a Chartered Engineer and a Fellow of Institution of Civil Engineers with comprehensive knowledge of managing transport infrastructure and built environment assets in diverse environments, with a  successful track record of delivering significant engineering projects from concept through design and construction and into lifecycle maintenance and rehabilitation. In Malaysia, Gandhi heads the Asset Management, Asset Consultancy Division for UEM Edgenta and is responsible for the Network Maintenance of the North South Expressway (PLUS), Pan Borneo Highway, Sabah Engineering Delivery and development of digital Asset Management Systems.He has strong business and strategic focus as well as excellent people management and communication skills, gained through leading multi-disciplinary teams in diverse environments, participating in industry committees and developing best practice in areas such as asset management and infrastructure technology.
 ---
