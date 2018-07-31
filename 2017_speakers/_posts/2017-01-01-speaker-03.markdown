@@ -1,12 +1,12 @@
 ---
-title: Mr. Daniel B Rupert
+title: Mr. Daniel B Ruppert
 name: Daniel-Rupert
-subtitle: Chairman of Centre for Environment, Technology and Development, Malaysia (CETDEM)
+subtitle: Group CEO<br>of<br>Sedania
 layout: 2017_default
 modal-id: 1
 img: Daniel-Rupert.jpg
 thumbnail: Daniel-Rupert.jpg
 alt: Picture of Daniel Rupert
-topic: One of the panels as a panelist
-description: Introducing Mr. Gurmit Singh K.S., Chairman of Centre for Environment, Technology and Development, Malaysia (CETDEM), who will also be joining MSTC 2017 as a panelist.<br><br>Mr. Gurmit Singh is an environmentalist, social activist and engineer. Prior to becoming Chairman of CETDEM, he was the Centre’s founder Executive Director from June 1985 to December 2006. He was appointed as Director of CETDEM’s think tank SUDI in Aug. 2011.<br><br>He is also an Adviser of the Environmental Protection Society, Malaysia, after having served as founder President from 1974 to 1994. He was Regional Coordinator of Climate Action Network, Southeast Asia (CANSEA) for 3 terms until 15th September 2012.<br><br>For his dedicated work, the Malaysian Government awarded Mr. Gurmit the distinguished Langkawi Award in 1993 and the Sustainable Consumer Award in 2008. UN Malaysia gave him its Environmental Sustainability Award in 2013 while MBPJ presented him its Green Leadership award towards the end of that year. In 2015, the Malaysian Green Technology Corporation gave him the Green Catalyst Award. He was also awarded an Honorary M.Sc. from Universiti Putra Malaysia in 2000.<br><br>Mr. Gurmit holds an Electrical Engineering degree from the University of Malaya (1970). He has been a corporate member of the Institution of Engineers Malaysia since 1974. His Memoirs of a Malaysian Eco-Activist was launched on 22 April 2017.
+topic: Finance
+description: Daniel joined as Group CEO of Sedania Innovator Bhd in January 2018. He holds a Master degree in International Business Administration from the European Business School, Oestrich-Winkel, Germany, and a BSc in Computer Science from James Madison University, Virginia, U.S. He started his career in Investment Banking with Broadview International / Jeffrey’s Investment Bank, London, where he was advising on Mergers & Acquisitions in technology industries, in particular software and internet-based businesses. Daniel continued his career as Investment Banking Associate for WestLB Panmure, London, UK, in M&A advisory for High-Tech Engineering. Since 2004, he established a proven track record in founding and expanding multiple tech-centric businesses, including his role as CEO of ARIF Solutions, a software company for purpose-built technological solutions for notable clients in Malaysia, including the FEI World Endurance Championships 2008 equestrian event organised by former Agong Sultan Mizan Zainal Abidin, and the Standard Chartered KL Marathon. In 2006, he founded and expanded the Presto Group in Malaysia which operated 4 supermarkets in Klang Valley and became the first online supermarket in Malaysia with annual turnover of RM30 million, before he exited in 2015. Daniel’s ability to forsee marketable business models from emerging technologies, combined with his passion to articulate and execute such strategies, makes him a valuable catalyst to Sedania’s vision.
 ---

@@ -1,12 +1,12 @@
 ---
 title: Mr Reza Farahmandnia
 name: Reza-Farahmandnia
-subtitle: President of The Institution of Engineers, Malaysia (IEM) and Senior Director of G&P Geotechnics Sdn Bhd
+subtitle: Senior Production Manager<br>of<br>Streamline Games
 layout: 2017_default
 modal-id: 1
 img: Reza.jpg
 thumbnail: Reza.jpg
 alt: Picture of Reza 
-topic: Closing keynote speaker for MSTC 2017
-description: Our closing keynote speaker for MSTC 2017 is Ir. Tan Yean Chin, the President of The Institution of Engineers, Malaysia (IEM) and Senior Director of G&P Geotechnics Sdn Bhd, an engineering consulting firm based in Kuala Lumpur. <br><br> Ir. Tan Yean Chin has been a Board Member of the Board of Engineers, Malaysia (BEM) since 1998, and is also an Accredited Checker (Geotechnical) registered with BEM. He obtained his Bachelor Degree in Civil Engineering with First Class Honours from University Technology Malaysia (UTM) in 1992. Later, he acquired his Masters Degree in Geotechnical Engineering and was awarded The Chin Fung Kee Prize for outstanding academic performance from Asian Institute of Technology (AIT), Bangkok in 1994. <br><br> Ir. Tan also holds the position of Secretary General of the Federation of Engineering Institutions of Asia and the Pacific (FEIAP), an independent umbrella organisation for the engineering institutions in the Asia and the Pacific region. He has published more than 70 technical papers on geotechnical engineering in local and overseas conferences and seminars.
+topic: Gaming
+description: Reza Farahmandnia is the Senior Production Manager Company at Streamline Games. With this role,he supervise overall production, and taking care of employees to make sure everyone focuses on what is important for Streamline Games. A big part of his job is to predict problems and prevent them from happening. At the same time, he works as a Producer on projects and leads the team to develop fun and memorable games. He began his career in Computer Science. His passion for technology and entertainment got him into animation and subsequently, the games industry. He’s been in production since 2010 and leads various teams to produce indie and AAA titles. He is a world traveler, gamer, movie lover, and founder of “Farnia Education,” the first Iranian institution to teach everyone, no matter what age, how to make games.
 ---

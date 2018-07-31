@@ -1,12 +1,12 @@
 ---
 title: Mr. Havene Liew
 name: Havene Liew
-subtitle: Founder<br>of<br>Poladrone
+subtitle: Managing Director<br>of<br>Mediasoft
 layout: 2017_default
 modal-id: 1
 img: Havene-Liew.jpg
 thumbnail: Havene-Liew.jpg
 alt: Picture of Havene Liew
-topic: Unmanned Technology (Drone) Applications & Study Abroad Sharing Session
-description: Titled "Unmanned Technology (Drone) Applications & Study Abroad Sharing Session", this informative session will be presented by the founders of Poladrone Solutions Sdn Bhd, a Malaysian-based company founded by a team of aerospace and data engineers that utilises autonomous drones and customised algorithms to efficiently collect and analyze data. <br><br> Cheong Jin Xi is the founder and CEO of Poladrone, who studied Aerospace Engineering at Monash University in Australia. He gained his financial knowledge through self-learning and served as a senior finance business analyst in Intel Corporation for a few years. This has therefore greatly influenced his good technical and financial background. Passionate about drones and foreseeing their good impact in different industries, he decided to form a drone startup, Poladrone in Malaysia, with the goal of accelerating the drone revolution in South East Asia region. Jin Xi sees the future in Internet of Things (Data Driven), everyday use commercial drones (Logistics Driven) and the emergence of the space tourism industry (Curiosity Driven).
+topic: Gaming
+description: Havene Liew is the Group founder & Managing Director at Havson Group Bhd. Not only that, he is also Managing Director at Dutajaya Media Sdn Bhd and the founder of Mediasoft Entertainment Sdn Bhd. He used to teach at School of 3D Game Art. He is an award-winning film director and cinematographer.  He is the original creator of 10 million users Jump Smash badminton game series and Roll Spike sepak takraw game. Not only that, he believes that it is his social responsibility to deliver good, positive message to users through the company's creationsHence, he successfully build a balanced work-life and self-driven culture in his group of companies. As a result, in 2015, Mediasoft was recognised as the best employer by KWSP Malaysia, being the first winner from creative industry in history. It won the merit Asia Smartphone App Award, as the top 16 best games in Asia. Inline with his beliefs of contributing back to the society, he serves as a committee member in Youth Circle of Arts since 2001, a non-profit organization that has trained more than 20,000 Malaysian school leaders since 199. One of his myriad achievements is to be selected as Digerati50 2018 - The 50 CEOs who help to shape Malaysia's digital economy. He has transformed Mediasoft from 3-employees outfit into a 65-strong creative company. Mediasoft is now the largest game studio in the region with more than 50 original IP titles across mobile, PC and console platforms. 
 ---
