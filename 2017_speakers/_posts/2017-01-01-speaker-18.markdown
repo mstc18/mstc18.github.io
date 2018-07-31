@@ -1,12 +1,12 @@
 ---
 title: Ms Yeo Bee Yin
-name: Cheong-Jin-Xi
-subtitle: Founder<br>of<br>Poladrone
+name: Yeo-Bee-Yin
+subtitle: Minister of Energy, Technology, <br>Science, Climate Change and <br>Environment
 layout: 2017_default
 modal-id: 1
-img: Cheong-Jin-Xi.jpg
-thumbnail: Cheong-Jin-Xi.jpg
-alt: Picture of Cheong Jin Xi 
+img: yeo-bee-yin.jpg
+thumbnail: yeo-bee-yin.jpg
+alt: Picture of Yeo Bee Yin
 topic: Unmanned Technology (Drone) Applications & Study Abroad Sharing Session
-description: Titled "Unmanned Technology (Drone) Applications & Study Abroad Sharing Session", this informative session will be presented by the founders of Poladrone Solutions Sdn Bhd, a Malaysian-based company founded by a team of aerospace and data engineers that utilises autonomous drones and customised algorithms to efficiently collect and analyze data. <br><br> Cheong Jin Xi is the founder and CEO of Poladrone, who studied Aerospace Engineering at Monash University in Australia. He gained his financial knowledge through self-learning and served as a senior finance business analyst in Intel Corporation for a few years. This has therefore greatly influenced his good technical and financial background. Passionate about drones and foreseeing their good impact in different industries, he decided to form a drone startup, Poladrone in Malaysia, with the goal of accelerating the drone revolution in South East Asia region. Jin Xi sees the future in Internet of Things (Data Driven), everyday use commercial drones (Logistics Driven) and the emergence of the space tourism industry (Curiosity Driven).
+description: Yeo Bee Yin is the Minister of Energy, Technology, Science, Climate Change and Environment cum the Member of Parliament for Bakri, Johor. She is also the National Assistant Publicity Secretary of the Democratic Action Party (DAP) and Vice Chairwoman of Pakatan Harapan Youth.She is an engineer by training. She graduated from University Technology Petronas with a first-class honours degree in Bachelor of Chemical Engineering and University of Cambridge, UK with Commendation in MPhil. in Advanced Chemical Engineering. She was also a recipient of the prestigious Gates Cambridge Scholarship for her postgraduate studies.At the age of 29, Bee Yin contested for the first time in Malaysia's 13th General Election (GE13) and was elected as the State Assemblywoman for Damansara Utama on 5th May 2013, making her the youngest member of the Selangor State Legislative Assembly 2013-2018.While,in the 14th General Election (GE14) in 2018, she was sent by the DAP to return to her home state Johor to contest in Bakri parliamentary seat, as Johor was the key battleground for Pakatan Harapan in GE14.
 ---
