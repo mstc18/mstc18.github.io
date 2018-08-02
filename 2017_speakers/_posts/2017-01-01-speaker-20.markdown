@@ -1,5 +1,5 @@
 ---
-title: Dato Iain Lo
+title: Datuk Iain Lo
 name: Iain-Lo
 subtitle: CEO<br>of<br>Shell Malaysia
 layout: 2017_default
