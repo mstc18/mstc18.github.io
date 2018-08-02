@@ -1,0 +1,12 @@
+---
+title: Dr Teh
+name: Dr-Teh
+subtitle: CPU/SOC<br>Silicon Design Engineering<br>Operation Manager
+layout: 2017_default
+modal-id: 1
+img: Dr-Teh.jpg
+thumbnail: Dr-Teh.jpg
+alt: Picture of Dr Teh
+topic: Engineering
+description: Dr. Teh is responsible for overall CPU/SOC silicon design engineering operation for major Intel products ranging from server, desktop, laptop, many other products and next few generations of IA Core. He leads several Malaysia national agenda by partnering with local overseas Universities and government agencies (MOE/Talent Corp/MIDA) to develop high-tech ecosystem, industry ready talents, and researches. Dr. Teh joined Intel Malaysia as a process engineer for Technology and Manufacturing Group. His diverse roles in Intel include local and global virtual factories developmental project leads in Manufacturing Process Engineering, Systems, Operation and Planning. In his capacity in Regional Information Technology’s Customer Service, Dr. Teh was responsible for global efforts in the areas of customer satisfaction management, operational excellence & quality development, as well as greater Asia regional business management. Dr. Teh also plays an active role in human resource development in Intel and in the industrial communities where it operates. Dr. Teh holds a bachelor's degree in Applied Physics, MBA (major in finance), and Doctorate in Business Administration (research on innovation).
+---
